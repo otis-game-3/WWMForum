@@ -12,7 +12,13 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function Page({ params }) {
+type Props = {
+  params: {
+    slug: string;
+  };
+};
+
+export default async function Page({ params } : Props) {
   const filePath = path.join("content", params.slug + ".md");
   const file = fs.readFileSync(filePath, "utf-8");
 
