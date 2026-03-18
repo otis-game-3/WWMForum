@@ -27,7 +27,6 @@ export default async function Page({ params } : Props) {
 
   return (
     <div>
-        <h1>{data.title}</h1>
         <div className="max-w-3xl mx-auto px-4 py-10">
             <article className="markdown-body dark prose dark:prose-invert max-w-none">
                 <div dangerouslySetInnerHTML={{ __html: processed.toString() }} />
