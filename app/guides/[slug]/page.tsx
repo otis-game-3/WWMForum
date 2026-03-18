@@ -18,6 +18,17 @@ type Props = {
   };
 };
 
+export async function generateMetadata({ params } : Props) {
+  const filePath = path.join("content", params.slug + ".md");
+  const file = fs.readFileSync(filePath, "utf-8");
+
+  const { content, data } = matter(file);
+
+  return {
+    title: `${data.title}`,
+  };
+}
+
 export default async function Page({ params } : Props) {
   const filePath = path.join("content", params.slug + ".md");
   const file = fs.readFileSync(filePath, "utf-8");

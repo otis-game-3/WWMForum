@@ -3,6 +3,10 @@ import path from "path";
 import matter from "gray-matter";
 import Link from "next/link";
 
+export const metadata = {
+  title: "副本攻略清單"
+};
+
 type Guide = {
   slug: string;
   title: string;
