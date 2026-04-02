@@ -11,13 +11,13 @@ title: 俠境｜86級碧血照黃沙
 ## 🔗 參考資料
 
 ### 📘 攻略
-- https://news.17173.com/z/yy16s/content/07162025/092239794.shtml  
-- https://gl.ali213.net/html/2026-1/1736651.html  
-- https://www.qieyou.com/content/122974  
+- [https://news.17173.com/z/yy16s/content/07162025/092239794.shtml](https://news.17173.com/z/yy16s/content/07162025/092239794.shtml)  
+- [https://gl.ali213.net/html/2026-1/1736651.html](https://gl.ali213.net/html/2026-1/1736651.html)  
+- [https://www.qieyou.com/content/122974](https://www.qieyou.com/content/122974)  
 
 ### 🎬 影片
-- https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA  
-- https://www.bilibili.com/video/BV1QzTMzVE6i/  
+- [https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA)  
+- [https://www.bilibili.com/video/BV1QzTMzVE6i/](https://www.bilibili.com/video/BV1QzTMzVE6i/)  
 
 ---
 
@@ -50,7 +50,7 @@ title: 俠境｜86級碧血照黃沙
   - 結束前使用 **三段跳**
 
 🎬 參考片段：  
-https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA&t=10
+[00:10-00:15](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA&t=10)
 
 ---
 
