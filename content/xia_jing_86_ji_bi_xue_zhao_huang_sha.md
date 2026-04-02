@@ -49,8 +49,7 @@ title: 俠境｜86級碧血照黃沙
   - 觀察上方進度條
   - 結束前使用 **三段跳**
 
-🎬 參考片段：  
-[00:10-00:15](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA&t=10)
+🎬 參考片段：[00:10-00:15](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA&t=10)
 
 ---
 
