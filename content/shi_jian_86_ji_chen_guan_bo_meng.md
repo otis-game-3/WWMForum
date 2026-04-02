@@ -1,5 +1,5 @@
 ---
-title: 試劍-86級沉棺泊夢
+title: 試劍｜86級沉棺泊夢
 ---
 
 ![AI Assisted](https://img.shields.io/badge/AI-Assisted-green) 本文內容由AI生成並經人工校正補全
