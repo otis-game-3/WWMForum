@@ -16,7 +16,8 @@ title: 俠境｜86級碧血照黃沙
 - [https://www.qieyou.com/content/122974](https://www.qieyou.com/content/122974)  
 
 ### 🎬 影片
-- [https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA)  
+- [本篇攻略撰寫完後這個影片上線，滿清楚的](https://youtu.be/PsBwnsT_mz0?si=quHdFL_FyxxZVP6M)
+- [本篇攻略撰寫時參考這個影片](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA)  
 - [https://www.bilibili.com/video/BV1QzTMzVE6i/](https://www.bilibili.com/video/BV1QzTMzVE6i/)  
 
 ---
@@ -118,7 +119,7 @@ title: 俠境｜86級碧血照黃沙
 - 儘量 **第一階段不死人**
 - 復活次數保留給第二階段
 - 開場前先決定 **3 名軍旗手**
-- 進入第二階段一定要有3人拿旗，BOSS血條值右邊有個進度條，每當**軍旗手死亡**或**軍旗沒人拿**，進度條就會增加。
+- 第二階段一定要有3人拿旗，BOSS血條值右邊有個進度條，每當**軍旗手死亡**或**軍旗沒人拿**，進度條就會增加。
 - ❗ 進度條滿 = 團滅
 - 第二階段BOSS盡可能拉到弓弩兵區域，方便輸出和處理弓弩兵。 
 
@@ -173,12 +174,9 @@ title: 俠境｜86級碧血照黃沙
 - **應對：**
   - 3 人分別到地上紅圈卸勢
   - 卸勢失敗 = 全員吃傷害
-  - 卸勢成功，擊殺陌刀兵
-  - **拿軍旗的玩家盡量別去紅圈卸勢**
-- **分岐：**
-  - 網路上對於卸勢成功後的情況有多種說法
-    - 說法1：軍旗手會被隔離出去和陌刀兵1v1，若其他玩家和軍旗手一同卸勢成功就會一起打陌刀兵。
-    - 說法2：只有參與卸勢成功的玩家會被隔離出去和陌刀兵1v1，其他玩家可擊殺陌刀兵解救被困玩家。
+  - 卸勢成功，3人被隔離，需擊殺陌刀兵才能脫困
+  - (待確認)聽說可以多人一起卸勢，就能一起隔離一起打陌刀兵
+  - **軍旗手和奶媽玩家盡量別去紅圈卸勢**
 - 🎬 參考片段：[02:50-03:08](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA&t=2m50s)
 
 
