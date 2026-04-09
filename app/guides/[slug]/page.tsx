@@ -3,6 +3,10 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import rehypeStringify from 'rehype-stringify';
+import remarkGfm from 'remark-gfm';
+import remarkParse from 'remark-parse';
+import remarkRehype from 'remark-rehype';
 import "github-markdown-css/github-markdown.css";
 
 export async function generateStaticParams() {
@@ -34,7 +38,10 @@ export default async function Page({ params } : Props) {
   const file = fs.readFileSync(filePath, "utf-8");
 
   const { content, data } = matter(file);
-  const processed = await remark().use(html).process(content);
+  const processed = await remark().use(html).use(remarkParse)
+  .use(remarkGfm)
+  .use(remarkRehype)
+  .use(rehypeStringify).process(content);
 
   return (
     <div>
