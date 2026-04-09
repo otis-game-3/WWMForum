@@ -39,11 +39,11 @@ export default async function Page({ params } : Props) {
 
   const { content, data } = matter(file);
   const processed = await remark()
+  .use(html)
   .use(remarkParse)
   .use(remarkGfm)
   .use(remarkRehype)
-  .use(rehypeStringify)
-  .use(html).process(content);
+  .use(rehypeStringify).process(content);
 
   return (
     <div>
