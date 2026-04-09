@@ -38,7 +38,8 @@ export default async function Page({ params } : Props) {
   const file = fs.readFileSync(filePath, "utf-8");
 
   const { content, data } = matter(file);
-  const processed = await remark().use(html).use(remarkParse)
+  const processed = await remark()
+  .use(remarkParse)
   .use(remarkGfm)
   .use(remarkRehype)
   .use(rehypeStringify).process(content);
