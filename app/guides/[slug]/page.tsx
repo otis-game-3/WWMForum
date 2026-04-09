@@ -42,7 +42,8 @@ export default async function Page({ params } : Props) {
   .use(remarkParse)
   .use(remarkGfm)
   .use(remarkRehype)
-  .use(rehypeStringify).process(content);
+  .use(rehypeStringify)
+  .use(html).process(content);
 
   return (
     <div>
