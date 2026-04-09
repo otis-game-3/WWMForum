@@ -16,6 +16,7 @@ title: 俠境｜86級碧血照黃沙
 - [https://www.qieyou.com/content/122974](https://www.qieyou.com/content/122974)  
 
 ### 🎬 影片
+- [這個影片針對各種細節機制講得很仔細，適合想深入了解機制的玩家](https://www.youtube.com/watch?v=kYeid74Eu4o)
 - [本篇攻略撰寫完後這個影片上線，滿清楚的](https://youtu.be/PsBwnsT_mz0?si=quHdFL_FyxxZVP6M)
 - [本篇攻略撰寫時參考這個影片](https://youtu.be/MfZ6e_eXrCE?si=Qt9ucWuj1ijECGtA)  
 - [https://www.bilibili.com/video/BV1QzTMzVE6i/](https://www.bilibili.com/video/BV1QzTMzVE6i/)  
